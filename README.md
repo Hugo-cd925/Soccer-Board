@@ -1,2 +1,2 @@
 # Soccer-Board
-Client-Side app allowing Users to view their favorite Premier League Team
+Client-Side app allowing Users to keep up to date with their favorite Premier League Team
